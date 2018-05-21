@@ -1,0 +1,33 @@
+﻿{
+  "CheckAvailability": {
+    "s_date": "01-01-2018",
+    "e_date": "01-12-2018",
+    "no_of_pax": "11"
+  },
+  "SearchBooking": {
+    "s_date": "01-01-2018",
+    "passenger_name": "Parker",
+    "flight_number": "123456",
+    "arrival_city": "123456",
+    "departure_city": "123456"
+  },
+  "MakeBooking": {
+    "schedule_id": "2",
+    "Passenger_details": [
+      {
+        "passenger_first_name": "Test1",
+        "passenger_last_name": "Test2",
+        "passport_no": "123456",
+        "dob": "01-01-1974",
+        "address_id": "1"
+      },
+      {
+        "passenger_first_name": "Test4",
+        "passenger_last_name": "Test8",
+        "passport_no": "77777",
+        "dob": "01-01-1974",
+        "address_id": "1"
+      }
+    ]
+  }
+}
